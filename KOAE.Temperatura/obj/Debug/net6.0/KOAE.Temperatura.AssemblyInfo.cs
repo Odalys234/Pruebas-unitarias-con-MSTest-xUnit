@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KOAE.Temperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e90cc268ccfb6be135abec18ff3e7cedeeb634")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc941b83ee6204822c4dc5b46617f24b6bdb843")]
 [assembly: System.Reflection.AssemblyProductAttribute("KOAE.Temperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KOAE.Temperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
