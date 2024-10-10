@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC6707D0-0453-4D20-9889-688260A6C4B7}|KOAE.Temperatura.UnitTestMSTest\\KOAE.Temperatura.UnitTestMSTest.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.temperatura.unittestmstest\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6707D0-0453-4D20-9889-688260A6C4B7}|KOAE.Temperatura.UnitTestMSTest\\KOAE.Temperatura.UnitTestMSTest.csproj|solutionrelative:koae.temperatura.unittestmstest\\temperatureconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCD82E83-E56D-4547-9B57-DA02C35D40ED}|KOAE.Temperatura\\KOAE.Temperatura.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCD82E83-E56D-4547-9B57-DA02C35D40ED}|KOAE.Temperatura\\KOAE.Temperatura.csproj|solutionrelative:koae.temperatura\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TemperatureConverterTests.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
+              "RelativeDocumentMoniker": "KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
+              "RelativeToolTip": "KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:07:26.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TemperatureConverter.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura\\TemperatureConverter.cs",
               "RelativeDocumentMoniker": "KOAE.Temperatura\\TemperatureConverter.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura\\TemperatureConverter.cs",
               "RelativeToolTip": "KOAE.Temperatura\\TemperatureConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T03:41:29.263Z",
               "EditorCaption": ""
