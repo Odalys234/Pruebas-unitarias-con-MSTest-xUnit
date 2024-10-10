@@ -5,7 +5,11 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOAE.Temperatura", "KOAE.Temperatura\KOAE.Temperatura.csproj", "{BCD82E83-E56D-4547-9B57-DA02C35D40ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOAE.Temperatura.UnitTestMSTest", "KOAE.Temperatura.UnitTestMSTest\KOAE.Temperatura.UnitTestMSTest.csproj", "{EC6707D0-0453-4D20-9889-688260A6C4B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KOAE.Temperatura.UnitTestMSTest", "KOAE.Temperatura.UnitTestMSTest\KOAE.Temperatura.UnitTestMSTest.csproj", "{EC6707D0-0453-4D20-9889-688260A6C4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOAE.CadenasTexto.UnitTestxUnit", "KOAE.CadenasTexto.UnitTestxUnit\KOAE.CadenasTexto.UnitTestxUnit.csproj", "{86E977E8-70A5-43B1-922E-73BEF25562BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOAE.CadenasTexto", "KOAE.CadenasTexto\KOAE.CadenasTexto.csproj", "{2E3CB44C-1BBE-4C10-9A48-174783087311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{EC6707D0-0453-4D20-9889-688260A6C4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC6707D0-0453-4D20-9889-688260A6C4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC6707D0-0453-4D20-9889-688260A6C4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E977E8-70A5-43B1-922E-73BEF25562BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E977E8-70A5-43B1-922E-73BEF25562BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E977E8-70A5-43B1-922E-73BEF25562BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E977E8-70A5-43B1-922E-73BEF25562BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3CB44C-1BBE-4C10-9A48-174783087311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3CB44C-1BBE-4C10-9A48-174783087311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3CB44C-1BBE-4C10-9A48-174783087311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3CB44C-1BBE-4C10-9A48-174783087311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

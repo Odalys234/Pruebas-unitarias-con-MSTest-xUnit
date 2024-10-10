@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("KOAE.Temperatura")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StringManipulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ec230b11d0786075643e9dc2175dc8103c9096")]
-[assembly: System.Reflection.AssemblyProductAttribute("KOAE.Temperatura")]
-[assembly: System.Reflection.AssemblyTitleAttribute("KOAE.Temperatura")]
+[assembly: System.Reflection.AssemblyProductAttribute("StringManipulator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StringManipulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
