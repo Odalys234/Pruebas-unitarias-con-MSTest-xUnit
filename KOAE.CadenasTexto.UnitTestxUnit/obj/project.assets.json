@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "KOAE.CadenasTexto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KOAE.CadenasTexto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KOAE.CadenasTexto.dll": {}
+        }
       }
     }
   },
@@ -5506,10 +5516,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "KOAE.CadenasTexto/1.0.0": {
+      "type": "project",
+      "path": "../KOAE.CadenasTexto/KOAE.CadenasTexto.csproj",
+      "msbuildProject": "../KOAE.CadenasTexto/KOAE.CadenasTexto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "KOAE.CadenasTexto >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5548,7 +5564,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto\\KOAE.CadenasTexto.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto\\KOAE.CadenasTexto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

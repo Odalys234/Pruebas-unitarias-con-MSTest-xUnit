@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\bin\Debug\net6.0\KOAE.CadenasTexto.deps.json
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\bin\Debug\net6.0\KOAE.CadenasTexto.dll
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\bin\Debug\net6.0\KOAE.CadenasTexto.pdb
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.sourcelink.json
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.dll
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\refint\KOAE.CadenasTexto.dll
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\KOAE.CadenasTexto.pdb
+C:\Users\MINEDUCYT\source\repos\KOAE\KOAE.CadenasTexto\obj\Debug\net6.0\ref\KOAE.CadenasTexto.dll

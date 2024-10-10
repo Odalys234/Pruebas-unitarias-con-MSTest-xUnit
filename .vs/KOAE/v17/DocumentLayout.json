@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86E977E8-70A5-43B1-922E-73BEF25562BD}|KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.cadenastexto.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E977E8-70A5-43B1-922E-73BEF25562BD}|KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj|solutionrelative:koae.cadenastexto.unittestxunit\\stringmanipulatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E3CB44C-1BBE-4C10-9A48-174783087311}|KOAE.CadenasTexto\\KOAE.CadenasTexto.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.cadenastexto\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3CB44C-1BBE-4C10-9A48-174783087311}|KOAE.CadenasTexto\\KOAE.CadenasTexto.csproj|solutionrelative:koae.cadenastexto\\stringmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E977E8-70A5-43B1-922E-73BEF25562BD}|KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.cadenastexto.unittestxunit\\koae.cadenastexto.unittestxunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86E977E8-70A5-43B1-922E-73BEF25562BD}|KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj|solutionrelative:koae.cadenastexto.unittestxunit\\koae.cadenastexto.unittestxunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3CB44C-1BBE-4C10-9A48-174783087311}|KOAE.CadenasTexto\\KOAE.CadenasTexto.csproj|c:\\users\\mineducyt\\source\\repos\\koae\\koae.cadenastexto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +54,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KOAE.CadenasTexto.UnitTestxUnit",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj",
+              "RelativeDocumentMoniker": "KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj",
+              "RelativeToolTip": "KOAE.CadenasTexto.UnitTestxUnit\\KOAE.CadenasTexto.UnitTestxUnit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T14:48:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StringManipulatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "RelativeDocumentMoniker": "KOAE.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "RelativeToolTip": "KOAE.CadenasTexto.UnitTestxUnit\\StringManipulatorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:43:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StringManipulator.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto\\StringManipulator.cs",
               "RelativeDocumentMoniker": "KOAE.CadenasTexto\\StringManipulator.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto\\StringManipulator.cs",
               "RelativeToolTip": "KOAE.CadenasTexto\\StringManipulator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T14:35:53.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.CadenasTexto\\Class1.cs",
               "RelativeDocumentMoniker": "KOAE.CadenasTexto\\Class1.cs",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "KOAE.CadenasTexto\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:34:42.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T14:34:42.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TemperatureConverterTests.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
               "RelativeDocumentMoniker": "KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "KOAE.Temperatura.UnitTestMSTest\\TemperatureConverterTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T04:07:26.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T04:07:26.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TemperatureConverter.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\KOAE\\KOAE.Temperatura\\TemperatureConverter.cs",
               "RelativeDocumentMoniker": "KOAE.Temperatura\\TemperatureConverter.cs",

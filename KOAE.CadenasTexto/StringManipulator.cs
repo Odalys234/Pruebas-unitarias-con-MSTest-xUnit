@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KOAE.CadenasTexto
 {
-    internal class StringManipulator
+    public class StringManipulator
     {
         // Implementa la inversion de la cadena 
         public string ReverseString(string input)
